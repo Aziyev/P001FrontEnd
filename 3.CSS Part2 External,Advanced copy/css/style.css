@@ -1,0 +1,45 @@
+.box{
+    width: 18.5%;
+    border: 1px solid black;
+    float: left;
+    margin-right: 20px;
+    padding: 10px;
+}
+.box img{
+    width: 100%;
+}
+.box p{
+    margin-bottom: 20px;
+}
+
+.header-left{
+    float: left;
+}
+.header-right{
+    padding-top: 10px;
+    float: right;
+}
+.header-right{
+    padding-top: 10px;
+    float: right;
+   
+}
+.headermain{
+   
+    padding: 10px 0px;
+}
+.header{
+    margin-bottom: 50px;
+    background-color: grey;
+}
+.header-right a{
+    margin-left: 10px;
+}
+
+.header-left h1{
+    color: wheat;
+}
+.product-main h1{
+    text-align: center;
+    margin: 20px 0px;
+}

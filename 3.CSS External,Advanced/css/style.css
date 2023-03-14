@@ -1,0 +1,132 @@
+/* SELECTOR */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* h1{
+
+}
+
+.classname{
+
+}
+
+#idname{
+
+}
+
+div .classname{
+
+}
+
+div #idname{
+    
+}
+
+div h1{
+    
+}
+
+.all .text{
+
+} */
+
+
+
+/* 
+
+.box{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px;
+    margin: 10px 20px;
+    margin: 10px 20px 30px;
+    margin: 10px 20px 10px 20px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    transition: 1s;
+} */
+
+/*  
+
+
+
+.default-btn{
+    padding: 10px 20px;
+    border: 1px solid black;
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+::selection {
+    color: red;
+    background: yellow;
+  } */
+
+/* PSEUDO ELEMENTS */
+
+
+/* .default-btn:hover{
+    margin: 10px;
+    padding: 40px;
+    background-color: white;
+    color: brown;
+} */
+
+/* even, odd , index number (1,2,3,4) */
+/* .box:nth-child(odd){
+    background-color: black;
+    color: white;
+}
+
+
+.box:hover{
+    cursor: pointer;
+    background-color: blue;
+} */
+
+/* 
+.bg-img{
+    text-align: center;
+    width: 100%;
+    height: 800px;
+    background-image: url(https://imageio.forbes.com/specials-images/imageserve/5f962d31e7b04bbfd2f68758/Bugatti-Chiron-Super-Sport-300--Driving/960x0.jpg?height=473&width=711&fit=bounds);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.bg-img2{
+    text-align: center;
+    width: 100%;
+    height: 800px;
+    background-image: url(https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=960);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.bg-img3{
+    text-align: center;
+    width: 100%;
+    height: 800px;
+    background-image: url(https://www.cnet.com/a/img/resize/71f8b5031e38c2d29365d59321f82c5ed7e1b2fe/hub/2021/09/02/da67e9fb-8b4a-4b7e-a419-c77c4242be6e/elantra-ogi.jpg?auto=webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+p{
+    color: white;
+   
+} */

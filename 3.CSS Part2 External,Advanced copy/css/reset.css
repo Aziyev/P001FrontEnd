@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
+ul, li{
+    list-style-type: none;
+}
+
+.default-btn{
+    padding: 5px 10px;
+    background-color: greenyellow;
+    color: white;
+    transition: 0.4s;
+
+}
+.default-btn:hover{
+    background-color: gray;
+    color: greenyellow;
+    
+}
