@@ -1,0 +1,163 @@
+header{
+    background-color: #461313;
+    color: white;
+    overflow: hidden;
+}
+header a{
+    color: white;
+}
+#Header-top{
+    padding: 10px 0px;
+}
+#Header-bottom{
+    padding: 10px 0px;
+    
+}
+.h-bottom-left{
+    float: left;
+}
+.h-bottom-right{
+    float: right;
+}
+.h-bottom-right a{
+    margin-left: 10px;
+}
+
+
+/* Header-ENDS */
+
+
+/* MAIN STARTS */
+
+#Carousel{
+    margin: 50px 0px;
+    width: 100%;
+    
+    border: 1px solid black;
+    position: relative;
+}
+#left-arrow{
+    font-size: 30px;
+    position: absolute;
+    left: -15px;
+    top: 48%;
+    background-color: white;
+    border-radius: 50%;
+    transition: 1s;
+}
+#right-arrow{
+    font-size: 30px;
+    position: absolute;
+    right: -15px;
+    top: 48%;
+    background-color: white;
+    border-radius: 50%;
+    transition: 1s;
+}
+#right-arrow:hover{
+    transform: scale(1.3) rotate(360deg);
+    cursor: pointer;
+}
+#left-arrow:hover{
+    transform: scale(1.3) rotate(360deg);
+    cursor: pointer;
+
+}
+#Carousel img{
+    width: 100%;
+}
+/* products section */
+.top-text{
+    border: 1px solid black;
+    overflow: hidden;
+    padding: 10px 0px;
+}
+.tt-left{
+float: left;
+}
+.tt-right{
+    float: right;
+}
+
+
+.all-product{
+    overflow: hidden;
+    margin: 20px 0px;
+    border: 1px solid black;
+
+}
+.product{
+    margin: 15px;
+    float: left;
+    width: 22%;
+    border: 1px solid black;
+    padding: 10px;
+}
+.product:nth-child(even){
+    background-color: gray;
+    color:white;
+}
+.product img{
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid black;
+
+}
+.product-info{
+    border: 1px solid black;
+    overflow: hidden;
+}
+.pi-text{
+    margin-bottom: 10px;
+}
+.pi-buttons a{
+    float: left;
+}
+.pi-buttons i{
+    float: right;
+    padding: 10px;
+}
+
+
+
+#back-image{
+    margin: 100px 0px;
+    width: 100%;
+    height: 400px;
+    background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#back-image h1{
+   text-align: center;
+   color: white;
+   padding-top: 150px;
+}
+
+
+
+/* Position-relative-absolute-left-right-clippath */
+/* .box{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin: 10px;
+}
+
+.box-mini{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 40%;
+    right: -20px;
+    clip-path: polygon(100% 48%, 0 48%, 0 100%);
+    transition: 1s;
+}
+.box-mini:hover{
+    transform: rotate(180deg) scale(1.2);
+
+
+} */

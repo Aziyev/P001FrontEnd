@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 85%;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+.default-btn{
+    background-color: #461313;
+    padding: 10px 20px;
+    color: white;
+    transition: 0.4s;
+}
+.default-btn:hover{
+    background-color: white;
+    border: 1px solid black;
+    color: #461313;
+    font-weight: bolder;
+}
